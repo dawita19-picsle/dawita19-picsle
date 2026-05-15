@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a passionate **Web Developer** based in **Bahir Dar, Ethiopia**, focusing on **Python** and **Databases (SQL)**. I love building clean, functional applications and I'm constantly learning new technologies to sharpen my skills.
+I am a passionate in mobile app development and **Web Developer** based in **Bahir Dar, Ethiopia**, focusing on java.fx, flutter,**Python** and **Databases (SQL)**. I love building clean, functional applications and I'm constantly learning new technologies to sharpen my skills.
 
 - 🔭 I’m currently working on advanced web projects.
 - 🌱 I’m currently learning more about Backend optimization.
